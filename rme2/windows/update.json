@@ -1,0 +1,101 @@
+{
+  "platform": "windows-x64",
+  "versionName": "1.1.22",
+  "sizeBytes": 137746129,
+  "sha256": "aa2c8a1fb7d53820796f2666afd9a8a96d97a9eedc033e65f652caa2bd8e4948",
+  "chunks": [
+    {
+      "name": "RME-1.1.22-001.bin",
+      "sizeBytes": 8388608,
+      "sha256": "150447a610db9a2464bf68a3d6a30deac812e8ba3f72758d9e09c6ded0e10edd"
+    },
+    {
+      "name": "RME-1.1.22-002.bin",
+      "sizeBytes": 8388608,
+      "sha256": "80578c0d0149e4b3c74f42c4bb5b1ed6146c76c6f410cb15204fd66d938f14af"
+    },
+    {
+      "name": "RME-1.1.22-003.bin",
+      "sizeBytes": 8388608,
+      "sha256": "e1e48a36c09c1ae714e72fa94841aa054a9226d0cd5e7c964f5c9b7b6d328f35"
+    },
+    {
+      "name": "RME-1.1.22-004.bin",
+      "sizeBytes": 8388608,
+      "sha256": "aa010cd70eab2876de7d69f2c5f974fb9b467cc0376f143ed126ed4d1914ba27"
+    },
+    {
+      "name": "RME-1.1.22-005.bin",
+      "sizeBytes": 8388608,
+      "sha256": "5a0329bd5b3e981b3f0a684e3f14e01ab7dadb4fdbf0b9452c42ca4b221fdc51"
+    },
+    {
+      "name": "RME-1.1.22-006.bin",
+      "sizeBytes": 8388608,
+      "sha256": "97957fb80515c67e117c1ca41c817f89c54b4d830983dbca55a85606782ace4a"
+    },
+    {
+      "name": "RME-1.1.22-007.bin",
+      "sizeBytes": 8388608,
+      "sha256": "1145900f459343770174ea750a8d8dfe5de0e62458ed315621363721dd997c86"
+    },
+    {
+      "name": "RME-1.1.22-008.bin",
+      "sizeBytes": 8388608,
+      "sha256": "29c8d9c4cc1a8b90050e5d34fad594de0b7d649cd4076f8d2a8acbea256d68d6"
+    },
+    {
+      "name": "RME-1.1.22-009.bin",
+      "sizeBytes": 8388608,
+      "sha256": "19622f933ec353ed57174e98681e17bf60c8b7b9958a0a02ddfdf636363195b8"
+    },
+    {
+      "name": "RME-1.1.22-010.bin",
+      "sizeBytes": 8388608,
+      "sha256": "662668df3eb9fd35c248d5c2069793d56fe1e479c60f94d27fd599462b9f10ee"
+    },
+    {
+      "name": "RME-1.1.22-011.bin",
+      "sizeBytes": 8388608,
+      "sha256": "59d3cc30c660bb728abca1657ac81059781bd18bc0636ac9a9788ec93bb3c370"
+    },
+    {
+      "name": "RME-1.1.22-012.bin",
+      "sizeBytes": 8388608,
+      "sha256": "032bf45507eb9af6b0e655d5f8d0d6559d4d1638da0a69ff3016a194e773d5ba"
+    },
+    {
+      "name": "RME-1.1.22-013.bin",
+      "sizeBytes": 8388608,
+      "sha256": "94d4818ca118a94b167f5483e10d9fa782f00f48dc18db6d1ae37b3e2eccf330"
+    },
+    {
+      "name": "RME-1.1.22-014.bin",
+      "sizeBytes": 8388608,
+      "sha256": "6cd5f4021a1d5245755dfaf4a387246eeffdaebd15feeab637ee135e19cd7c1e"
+    },
+    {
+      "name": "RME-1.1.22-015.bin",
+      "sizeBytes": 8388608,
+      "sha256": "e65c78e476588e86c442c6be7c903414ef2acbb2b13c50b0d261b24b9e7774b8"
+    },
+    {
+      "name": "RME-1.1.22-016.bin",
+      "sizeBytes": 8388608,
+      "sha256": "747ada67f20b253e2e2ece914e1c3b66e9c2921c905c7e922f56bfcab746ad89"
+    },
+    {
+      "name": "RME-1.1.22-017.bin",
+      "sizeBytes": 3528401,
+      "sha256": "9147dbf96c2e5c7a3049d1675742e394f3993d6cec21d636d9eaf887c27bcc3a"
+    }
+  ],
+  "delta": {
+    "baseSha256": "3eb920c08f9f37b1bc17059228c48a81a36b17196d81b62bc02ab30220497270",
+    "targetSha256": "a6b014655d3cedec291b99d74c92856173269bcd87b23f3ca407372e59be1a51",
+    "targetBytes": 53390935,
+    "sha256": "0fc1e4e47ce6c6a80ab611845511e02798387034792d253d9c98c603ec22f135",
+    "sizeBytes": 8912505,
+    "url": "RME-1.1.22-asar.rmd.gz"
+  }
+}
