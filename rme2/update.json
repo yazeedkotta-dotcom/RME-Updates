@@ -1,15 +1,15 @@
 {
-  "versionCode": 24,
-  "versionName": "1.1.22",
+  "versionCode": 25,
+  "versionName": "1.1.23",
   "sizeBytes": 14024396,
-  "sha256": "578c2bbb2b67d75cedb51a8898a4f74bb241309ed536b426c98da0cf508833f1",
-  "apkUrl": "RME-Equipment-1.1.22-Android.apk",
+  "sha256": "9a4481e4c4ad5da08aadcabedcf61069b5d9fcffaf826ec9dbd3be4a29553994",
+  "apkUrl": "RME-Equipment-1.1.23-Android.apk",
   "delta": {
     "baseSha256": "189359b097290a8d9fe412603cca9d194c25c97af8b7f74ad2440fca07903003",
-    "targetSha256": "578c2bbb2b67d75cedb51a8898a4f74bb241309ed536b426c98da0cf508833f1",
+    "targetSha256": "9a4481e4c4ad5da08aadcabedcf61069b5d9fcffaf826ec9dbd3be4a29553994",
     "targetBytes": 14024396,
-    "sha256": "6b13ee0769a197b6d7c0878ccbd201482af401529d8e93ebb30db76c3b49e4cf",
-    "sizeBytes": 84455,
-    "url": "RME-Equipment-1.1.22-Android.rmd.gz"
+    "sha256": "09fa2f4b720eaede4fd40a3edab7fb83d0dffb7582785614d4077a2f8f4609e9",
+    "sizeBytes": 90743,
+    "url": "RME-Equipment-1.1.23-Android.rmd.gz"
   }
 }
